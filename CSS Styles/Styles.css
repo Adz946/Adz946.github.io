@@ -3,8 +3,8 @@
     font-family: 'Times New Roman';
     font-size: 15px;
 
-    background-color: #101dd154;
-    border: 10px outset rgb(194, 179, 94);
+    background-color: #c3d2d5;
+    border: 10px outset #824670;
     
     margin: auto;
     width: 70%;
@@ -13,16 +13,16 @@
 }
 #main
 {
-    background-color: rgb(158, 199, 96);
+    background-color: #B1DFA0;
 }
 #idea
 {
-    background-color: rgb(158, 199, 96);
+    background-color: #B1DFA0;
     text-align: left;
 }
 #img
 {
-    border: 5px inset rgb(202, 93, 93);
+    border: 5px inset #824670;
 }
 #nav
 {
