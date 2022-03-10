@@ -15,6 +15,11 @@
 {
     background-color: rgb(158, 199, 96);
 }
+#idea
+{
+    background-color: rgb(158, 199, 96);
+    text-align: left;
+}
 #img
 {
     border: 5px inset rgb(202, 93, 93);
