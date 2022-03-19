@@ -3,8 +3,8 @@
     font-family: 'Times New Roman';
     font-size: 15px;
 
-    background-color: #c3d2d5;
-    border: 10px outset #824670;
+    background-color: wheat;
+    border: 10px outset gold;
     
     margin: auto;
     width: 70%;
@@ -13,36 +13,32 @@
 }
 #main
 {
-    background-color: #B1DFA0;
+    background-color: lightgreen;
 }
 #idea
 {
-    background-color: #B1DFA0;
+    background-color: lightgreen;
     text-align: left;
+    padding: 5%;
 }
 #img
 {
-    border: 5px inset #824670;
+    border: 5px inset crimson;
 }
 #nav
 {
     color: rgb(255, 0, 0);
     font-size: 20px;
 }
-#quals
-{
-    display: flex;
-    flex-direction: column;
-}
 #Ns, #Hs
 {
     display: none;
-    background-color: rgb(141, 87, 87);
+    background-color: darkcyan;
     color: white;
 }
 #Need, #Have
 {
-    background-color: rgb(141, 87, 87);
+    background-color: darkblue;
     font-size: 20px;
     color: white;
     cursor: pointer;
